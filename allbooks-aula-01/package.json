@@ -17,6 +17,10 @@
     "jsonwebtoken": "^8.1.0"
   },
   "devDependencies": {
+<<<<<<< HEAD
     "jest": "^30.0.5"
+=======
+    "jest": "^30.0.0"
+>>>>>>> 6cb9c9ae77a7ecb3dc471fdc3c1c104da7ba4571
   }
 }
